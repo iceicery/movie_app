@@ -1,0 +1,27 @@
+.page{
+    width:450px;
+    font-family: 'Iner',Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color:#12153D;
+}
+
+.header{
+    padding-top:62px;
+    padding-right: 8%;
+    padding-left:8%;
+    background-color: #e5e5e5;
+    margin-left: auto;
+    margin-right:auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+.header__list{
+    width:18px;
+    height:12px;
+}
+
+.header__search{
+    width: 16px;
+    height: 16px;
+}
