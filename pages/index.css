@@ -1,15 +1,17 @@
 .page{
-    width:450px;
+    width:470px;
     font-family: 'Iner',Arial, Helvetica, sans-serif;
-    background-color: #ffffff;
+    font-style: normal;
+    background-color: #e5e5e5;
     color:#12153D;
+    text-rendering: optimizeLegibility;
 }
 
 .header{
     padding-top:62px;
-    padding-right: 8%;
-    padding-left:8%;
-    background-color: #e5e5e5;
+    padding-right: 5%;
+    padding-left:5%;
+    background-color: #ffffff;
     margin-left: auto;
     margin-right:auto;
     display:flex;
@@ -24,4 +26,66 @@
 .header__search{
     width: 16px;
     height: 16px;
+}
+
+.menu{
+    padding-top:62px;
+    padding-right: 5%;
+    padding-left:5%;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.menu__title-container{
+    min-width: 584px;
+    height:39px;
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.menu__title{
+    margin-right:25px;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    opacity:0.3 ;
+    white-space: nowrap;
+}
+
+.menu__select{
+    opacity: 1;
+}
+
+.menu__underline{
+    margin-top:16px;
+    width:40px;
+    height:6px;
+}
+
+.menu__subtitle-container{
+    min-width:584px;
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding:0;
+    margin:0;
+    margin-top:48px;
+}  
+
+.menu__subtitle{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 24px;
+    padding-left: 24px;
+    border:1.5px solid rgba(18,21,61,0.15);
+    border-radius: 50px;
+
+    margin-right:20px ;
+    color:#434670;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
 }
