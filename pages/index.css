@@ -1,3 +1,6 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/font/font.css');
+
 .page{
     width:470px;
     font-family: 'Iner',Arial, Helvetica, sans-serif;
