@@ -1,14 +1,7 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/font/font.css');
+@import url('../blocks/page/page.css');
 
-.page{
-    width:470px;
-    font-family: 'Iner',Arial, Helvetica, sans-serif;
-    font-style: normal;
-    background-color: #e5e5e5;
-    color:#12153D;
-    text-rendering: optimizeLegibility;
-}
 
 .header{
     padding-top:62px;
