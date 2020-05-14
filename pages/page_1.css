@@ -7,7 +7,7 @@
     padding-top:62px;
     padding-right: 5%;
     padding-left:5%;
-    background-color: #ffffff;
+    background-color: #e5e5e5;
     margin-left: auto;
     margin-right:auto;
     display:flex;
@@ -28,7 +28,7 @@
     padding-top:62px;
     padding-right: 5%;
     padding-left:5%;
-    background-color: #ffffff;
+    background-color: #e5e5e5;
     overflow: hidden;
 }
 
@@ -88,7 +88,7 @@
 
 .movie{
     padding-top:72px;
-    background-color: #ffffff;
+    background-color: #E5E5E5;
     margin-left: auto;
     margin-right:auto;
     padding-bottom:101px;
