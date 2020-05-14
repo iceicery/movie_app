@@ -2,8 +2,8 @@
 ## Introduction
 This is an movie applicaton providing information such as movie length, summary, casts and ratings. 
 ## Technology
-HTML
-CSS
+#### HTML
+#### CSS
 ## Link
 #### https://iceicery.github.io/movie_app/page_1.html
 #### https://iceicery.github.io/movie_app/page_2.html
